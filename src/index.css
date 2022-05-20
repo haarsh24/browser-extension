@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaijaan+2:wght@600&family=Handlee&display=swap');
 
 
 @tailwind base;
@@ -6,5 +7,6 @@
 @tailwind utilities;
 
 *{
-  font-family: 'Roboto Condensed', sans-serif;
+
+  font-family: 'Baloo Bhaijaan 2', cursive;
 }

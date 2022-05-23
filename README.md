@@ -46,7 +46,7 @@ Go to the project directory
 
 
 </br>
-⭐Glad to see you here! Show some love by ⭐Starring <a href="https://github.com/haarsh24/sneakerXclub"> Sneaker X Club </a>  🚀  repo. ⭐
+⭐Glad to see you here! Show some love by ⭐Starring <a href="https://github.com/haarsh24/browser-extension"> Let's Focus </a>  🚀  repo. ⭐
 </br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
